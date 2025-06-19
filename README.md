@@ -1,4 +1,4 @@
-# 🎓 UAS Artificial Intelligence 2025  
+# 🎓 Proyek Akhir Praktikum Artificial Intelligence 
 <h2 align="center">LMS Gaya Belajar Berbasis Streamlit</h2>
 
 Aplikasi pembelajaran berbasis web yang menggunakan pendekatan kecerdasan buatan untuk memprediksi gaya belajar dominan siswa (Visual, Auditori, atau Kinestetik) berdasarkan interaksi mereka dengan materi. Sistem ini dikembangkan menggunakan algoritma *Random Forest* dan antarmuka interaktif dengan Streamlit.
