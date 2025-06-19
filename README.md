@@ -27,6 +27,4 @@ Prediksi dilakukan berdasarkan:
 - **Akses** ke materi: `Akses_Kinestetik`, `Akses_Visual`, `Akses_Auditori`
 - **Rata-rata skor** kuis: `Avg_Skor_Kinestetik`, `Avg_Skor_Visual`, `Avg_Skor_Auditori`
 
-Model:  
-```python
-RandomForestClassifier(n_estimators=100, random_state=42, class_weight='balanced')
+Model: Random Forest
