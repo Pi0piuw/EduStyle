@@ -34,8 +34,7 @@ Aplikasi pembelajaran berbasis web yang menggunakan pendekatan kecerdasan buatan
 
 ## 📌 Latar Belakang
 
-Setiap siswa memiliki gaya belajar yang berbeda. Sayangnya, sistem pembelajaran konvensional sering kali bersifat seragam dan tidak memperhatikan perbedaan tersebut.  
-Hal ini menyebabkan rendahnya efektivitas belajar bagi sebagian siswa.
+Setiap siswa memiliki gaya belajar yang berbeda. Sayangnya, sistem pembelajaran konvensional sering kali bersifat seragam dan tidak memperhatikan perbedaan tersebut. Hal ini menyebabkan rendahnya efektivitas belajar bagi sebagian siswa.
 
 Aplikasi ini dikembangkan sebagai solusi, dengan memanfaatkan AI untuk memprediksi gaya belajar dominan dari data interaksi siswa terhadap materi pembelajaran digital. Pendekatan ini mendukung pembelajaran yang adaptif dan personal.
 
