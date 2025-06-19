@@ -56,8 +56,7 @@ Manfaat:
 
 ## 🧾 Penjelasan Aplikasi
 
-Siswa akan mengakses tiga jenis materi (visual, auditori, kinestetik). Setelah itu, siswa mengerjakan kuis. Sistem mencatat frekuensi akses dan skor kuis, lalu memproses data tersebut untuk memprediksi gaya belajar dominan siswa.  
-Hasil prediksi akan direkomendasikan dalam bentuk format materi yang sesuai.
+Siswa akan mengakses tiga jenis materi (visual, auditori, kinestetik). Setelah itu, siswa mengerjakan kuis. Sistem mencatat frekuensi akses dan skor kuis, lalu memproses data tersebut untuk memprediksi gaya belajar dominan siswa. Hasil prediksi akan direkomendasikan dalam bentuk format materi yang sesuai.
 
 ---
 
@@ -101,12 +100,7 @@ Model:
 ---
 
 ## 📆 Rencana Pengerjaan Proyek
-
-Pembagian Tugas:
-- Bayu      : Machine Learning & Data Processing  
-- Naqiyyah  : Materi, kuis, dan dokumentasi  
-- Shofy     : UI/UX dengan Streamlit dan integrasi  
-
+ 
 Koordinasi Tim:
 - WhatsApp → Komunikasi dan diskusi harian  
 
